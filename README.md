@@ -2,6 +2,6 @@
 
 Statistics for Geography
 
-Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/giswqs/GEOG-533/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/GEOG-533/master?filepath=index.ipynb) | [![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/giswqs/GEOG-533/master?filepath=index.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/giswqs/GEOG-533/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/GEOG-533/master?urlpath=rstudio) | [![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/giswqs/GEOG-533/master?filepath=rstudio)
