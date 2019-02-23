@@ -5,3 +5,7 @@ install.packages("httr")
 install.packages('caTools')
 install.packages('bitops')
 install.packages('rprojroot')
+install.packages('rgdal')
+install.packages('raster')
+install.packages('moments')
+
