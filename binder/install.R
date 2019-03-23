@@ -15,3 +15,6 @@ install.packages('wordcloud')
 install.packages('plyr')
 install.packages('dplyr')
 install.packages('stringr')
+install.packages('car')
+install.packages('reshape2')
+
